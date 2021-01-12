@@ -1,0 +1,35 @@
+        p { 
+            font-weitgh: bold;   =  Fonte negrito
+        }
+
+        p { 
+            font-weitgh: normal; =  Fonte normal
+        }
+
+        p { 
+            font-weitgh: 200;    =  peso da fonte
+        }
+
+        .exemple {
+            font-style: italic/normal;  = tipo da fonte
+        }
+
+        .exemple {
+            text-decoration: underline;  = fonte sublinhada
+        }
+
+        .exemple {
+            font-style: line-through;  = Fonte riscada
+        }
+
+        .exemple {
+           line-height: 1.5;  = tamanho da fonte
+        }
+
+        h1{
+            color: rgb (200, 0 , 0) = cor da fonte alterando via RGB
+        }
+        
+        h1{
+            color: rgba (255, 0 , 0, 0.4) = cor da fonte acompanhado de um alfa no final para adicionar transparência a fonte
+        }
