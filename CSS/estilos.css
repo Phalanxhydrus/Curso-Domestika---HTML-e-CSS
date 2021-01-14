@@ -1,11 +1,3 @@
-.Design { 
-    font-size: 30px;
-    background-color: rgb(48, 148, 241);
-    width: 1000px;
-    height: 50px;
-    padding: 20px;
-} 
-
 
 .Menu {
     background-color: cornflowerblue;
@@ -13,6 +5,14 @@
     height: 100px;
     width: 100px;
 }
+
+.Design { 
+    font-size: 30px;
+    background-color: rgb(48, 148, 241);
+    width: 1000px;
+    height: 50px;
+    padding: 20px;
+} 
 
 .texto {
     background-color: cornflowerblue;
