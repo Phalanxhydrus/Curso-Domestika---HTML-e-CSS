@@ -1,29 +1,6 @@
-/* Geral  */
-
-body {
-    margin: 30px;
-}
-
-p {
-    font-size: 20px;
-}
-
-/* Estilos tipograficos */
-
-.exemplo {
+.design { 
     font-size: 30px;
-}
-
-/* Cabeçalho */
-
-.navegation{ 
-    /* estilos */
-}
-
-.logo {
-       /* estilos */
-}
-
-.pie{
-    /* estilos */
+    background-color: rgb(48, 148, 241);
+    width: 300px;
+    width: 300px;
 }
